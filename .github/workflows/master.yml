@@ -33,8 +33,8 @@ jobs:
 
       - name: Setup Git Configuration
         run: |
-          git config user.email "kongkoinairdrop@gmail.com"
-          git config user.name "KongkoinAirdrop"
+          git config user.email "mangjamil53@gmail.com"
+          git config user.name "mangjamil"
 
       - name: Prepare Commit
         run: |
